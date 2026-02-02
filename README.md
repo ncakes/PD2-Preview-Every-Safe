@@ -2,9 +2,7 @@
 
 ## Overview
 
-Allow all skins from all safes to be previewed from the Steam Inventory menu. Legendary skins can be previewed as well as skins from the Completely OVERKILL safe. Adds a prompt to choose the preview wear.
-
-Also restores the removed weapon safes (John Wick, Bodhi, Jimmy, Scarface).
+Allow all skins from all safes to be previewed from the Steam Inventory menu. Adds the Completely OVERKILL safe, restores the removed weapon safes (John Wick, Bodhi, Jimmy, Scarface), and restores removed weapon skins. Adds a prompt to choose the preview wear.
 
 ## Known Issues
 
